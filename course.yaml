@@ -1,0 +1,11 @@
+# Machine-readable index of every AI Workflow Pro video and its playbook.
+# One entry per video, keyed by topic; there is no episode order. Each playbook's own
+# playbook.yaml is the source for its details.
+series:
+  - id: knowledgebase
+    title: Build a Knowledge Base for AI Agents
+    playlist: https://www.youtube.com/playlist?list=PLCWXPPyW6CWA
+    videos:
+      - { topic: company-os, title: "How a Knowledge Base Turned AI Agents into My Company OS", video: h5BCeUMGuf8, repo: null, type: null }
+      - { topic: skeleton, title: "I Built a Knowledge Base from an Empty Folder. Here's How.", video: hmdKqGgIHyE, repo: awp-playbook-knowledgebase-skeleton, type: F }
+      - { topic: standards, title: "Why Your AI Agent Gives Different Answers (3-File Fix)", video: bpBhRBcKZOc, repo: awp-playbook-knowledgebase-standards, type: K }
