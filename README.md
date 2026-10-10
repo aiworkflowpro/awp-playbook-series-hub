@@ -36,8 +36,8 @@ as memory, then the standards, workflows and tools on top of it.
 
 | Topic | Playbook | Video |
 |---|---|---|
-| A knowledge base as your company OS | — | [Watch](https://www.youtube.com/watch?v=h5BCeUMGuf8) |
-| Build a knowledge base for AI agents from an empty folder | [awp-playbook-knowledgebase-skeleton](https://github.com/aiworkflowpro/awp-playbook-knowledgebase-skeleton/blob/main/README.md) | [Watch](https://www.youtube.com/watch?v=hmdKqGgIHyE) |
+| A knowledge base as your company OS | — | [Watch](https://www.youtube.com/watch?v=WK-ppzQ_AKw) |
+| Build a knowledge base for AI agents from an empty folder | [awp-playbook-knowledgebase-skeleton](https://github.com/aiworkflowpro/awp-playbook-knowledgebase-skeleton/blob/main/README.md) | [Watch](https://www.youtube.com/watch?v=OAvNR8XN1oU) |
 | Standards that make AI agents consistent | [awp-playbook-knowledgebase-standards](https://github.com/aiworkflowpro/awp-playbook-knowledgebase-standards/blob/main/README.md) | [Watch](https://www.youtube.com/watch?v=bpBhRBcKZOc) |
 
 ## How the playbooks work
